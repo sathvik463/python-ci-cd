@@ -2,6 +2,5 @@
 def add(a, b):
     return a + b
 
-if __name__ == "__main__":
-    print("Python CI/CD Application - Version 2")
-    print("Sum =", add(20, 30))
+print("Python CI/CD Application")
+print("Sum =", add(20, 30))
